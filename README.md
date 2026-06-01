@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="/githubbanner.png" alt="Benjamin Solano banner" width="100%" />
-
   <h1>Benjamin Solano</h1>
-  <p><strong>ABTECH CSE student</strong> • Competitive programmer • Builder of clean, practical software</p>
+  <p><strong>ABTECH CSE student</strong> • Competitive programmer • Software builder</p>
 
   <p>
     <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
@@ -17,39 +15,29 @@
   </p>
 </div>
 
-<br />
+> I build software the same way I solve hard problems: understand the shape of the problem, keep the solution clean, and ship with intent.
 
-<table width="100%">
-  <tr>
-    <td width="52%" valign="top">
+### Terminal Snapshot
 
-<h3>About Me</h3>
+```text
+$ whoami
+Benjamin Solano
 
-I am an ABTECH CSE student who enjoys turning ideas into reliable code.
+$ role
+ABTECH CSE student | competitive programmer | builder
 
-I like the kind of engineering that is both elegant and useful: competitive programming, algorithmic thinking, and building web and software projects with a strong focus on clarity, structure, and execution.
+$ mindset
+clarity > complexity > noise
+```
 
-I am currently shaping myself into a well-rounded developer who can solve hard problems, write readable systems, and ship polished work.
+### What I Focus On
 
-    </td>
-    <td width="48%" valign="top">
+- Computer science fundamentals and algorithms
+- Competitive programming and problem solving
+- Clean web development with readable structure
+- Practical systems that are easy to maintain
 
-  <h3>Snapshot</h3>
-
-<p>
-<img src="/imgs/img3.png" width="14" /> Focused on computer science fundamentals and implementation depth<br/>
-<img src="/imgs/img4.png" width="14" /> Building discipline through consistent problem solving<br/>
-<img src="/imgs/img2.png" width="14" /> Interested in competitive programming and structured thinking<br/>
-<img src="/imgs/img1.png" width="14" /> Enjoys chess, strategy, and long-term skill building
-</p>
-
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### What I Work With
+### Toolbelt
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -63,19 +51,11 @@ I am currently shaping myself into a well-rounded developer who can solve hard p
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<br />
+### Working Style
 
-### How I Like To Build
-
-<p>
-<strong>01.</strong> Understand the problem before writing code.<br/>
-<strong>02.</strong> Keep solutions simple, maintainable, and easy to reason about.<br/>
-<strong>03.</strong> Iterate fast, test properly, and polish the final result.
-</p>
-
-> I care about code that can be explained clearly, improved confidently, and reused later without regret.
-
-<br />
+1. Understand the problem before writing code.
+2. Keep solutions simple, maintainable, and easy to reason about.
+3. Test, refine, and polish until the result feels deliberate.
 
 ### Current Focus
 
@@ -85,8 +65,6 @@ I am currently shaping myself into a well-rounded developer who can solve hard p
   <img src="https://img.shields.io/badge/Systems%20Thinking-111111?style=for-the-badge&logo=github&logoColor=white" alt="Systems Thinking" />
   <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=for-the-badge&logo=codewars&logoColor=white" alt="Problem Solving" />
 </p>
-
-<br />
 
 ### GitHub Pulse
 
@@ -98,8 +76,6 @@ I am currently shaping myself into a well-rounded developer who can solve hard p
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=111111&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph" />
 </div>
-
-<br />
 
 ### Reach Out
 
